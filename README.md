@@ -145,5 +145,4 @@ MIT License © 2025 noesisthink
 
 ---
 
-Do you want me to do that next?
 
